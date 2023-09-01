@@ -14,7 +14,7 @@ First, clone the repo.
 
 Second, build with cargo
 
-"Cargo build --release"
+"cargo build --release"
 
 Third, install to /usr/bin
 
