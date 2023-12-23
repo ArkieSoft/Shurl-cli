@@ -18,6 +18,6 @@ Second, build with cargo
 
 Third, install to /usr/bin
 
-"install -Dm 755 ./shurl-cli /usr/bin"
+"install -Dm 755 ./shurl-cli /usr/local/bin"
 
 This is my first project so don't expect miracles out of little old me
